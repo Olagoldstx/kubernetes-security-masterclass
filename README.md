@@ -27,3 +27,18 @@ git clone https://github.com/Olagoldstx/kubernetes-security-masterclass
 cd kubernetes-security-masterclass
 cd module-1-fundamentals/labs
 ```
+
+## 🐳 Docker Security Prerequisites
+This course requires Docker knowledge. We include Docker security labs in Module 1 to ensure strong container foundations.
+
+### Required Docker Skills
+- Building Docker images
+- Running containers
+- Basic Docker commands
+- Understanding of Dockerfile syntax
+
+### Docker Security Topics Covered
+- Secure image building practices
+- Container vulnerability scanning
+- Runtime security configuration
+- Minimal image strategies

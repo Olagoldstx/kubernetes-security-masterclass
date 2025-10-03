@@ -230,8 +230,8 @@ spec:
                   done
                 
                 # 2. Create remediation ticket
-                kubectl create configmap remediation-ticket-1759503206 \
-                  --from-literal=timestamp=2025-10-03T14:53:26Z \
+                kubectl create configmap remediation-ticket-1759503914 \
+                  --from-literal=timestamp=2025-10-03T15:05:14Z \
                   --from-literal=critical_vulnerabilities= \
                   --namespace=security-events
                 

@@ -1,3 +1,11 @@
+<p align="center">
+  <!-- choose one: dark or light -->
+  <img src="assets/banner-securethecloud-dark.png" alt="Secure the Cloud" width="80%">
+</p>
+
+# Secure the Cloud
+Multi-cloud security labs and examples across AWS, Azure, and Google Cloud.
+
 # 🛡️ Kubernetes Security Master Class
 ## Secure E-Commerce Platform Implementation
 
